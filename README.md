@@ -2,5 +2,7 @@
 
 <!--CSS got so much better!-->
 
+I started this lecture at 2023 Sept 23!<br>
 
-HTML & CSS are so much fun!
+Sept.23.2023  
+- Created lecture repository
