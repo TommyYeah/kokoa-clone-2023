@@ -32,3 +32,6 @@ Sept.27.2023
 - Reset CSS
 - statis-bar.css
 - Update Welcome-header
+
+Sept.30.2023
+- Use Ctrl+Shift+L : Multi-select for modify
